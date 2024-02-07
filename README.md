@@ -1,3 +1,4 @@
+# Run on CodeBlocks
 # Description du projet
 
 Ce projet implémente deux classes en C++ : `Personnel` et `Patron`. La classe `Patron` dérive publiquement de la classe `Personnel`. Voici les fonctionnalités implémentées pour chaque classe :
