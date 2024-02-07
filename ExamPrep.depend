@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707311022 source:c:\users\ziadb\onedrive\desktop\projects\cpp\examprep\main.cpp
+	<iostream>
+	"classheaders.h"
+
+1707310750 c:\users\ziadb\onedrive\desktop\projects\cpp\examprep\classheaders.h
+	<string>
+
+1707311237 source:c:\users\ziadb\onedrive\desktop\projects\cpp\examprep\classesdef.cpp
+	"classheaders.h"
+	<string>
+	<iostream>
+
